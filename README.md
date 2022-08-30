@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CS50etudiant, a highschool student based in Melbourne
 - 👀 I’m interested in studying computer science and becoming a software engineer
 - 🌱 I’m currently learning CS50x and CS50w by Harvard
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything that pushed my learning further
 - 📫 How to reach me: kevin.nguyen200476@gmail.com
 
 <!---
